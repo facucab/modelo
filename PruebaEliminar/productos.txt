@@ -1,0 +1,4 @@
+1|Cebolla|45.30
+2|Morron|5.30
+3|Manzana|16.00
+4|Kiwi|34.20

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1730205844 source:c:\users\usuario\desktop\pruebaeliminar\main.c
+	"Funciones.h"
+
+1730163986 c:\users\usuario\desktop\pruebaeliminar\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1730163452 source:c:\users\usuario\desktop\pruebaeliminar\funciones.c
+	"Funciones.h"
+
